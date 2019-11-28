@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/models/SocketIOMessage.ts"],"names":[],"mappings":";;AAAA,IAAY,mBAGX;AAHD,WAAY,mBAAmB;IAC7B,0CAAmB,CAAA;IACnB,0CAAmB,CAAA;AACrB,CAAC,EAHW,mBAAmB,GAAnB,2BAAmB,KAAnB,2BAAmB,QAG9B","file":"../../../src/models/SocketIOMessage.js","sourcesContent":["export enum SocketIOMessageType {\r\n  COMMENT = 'comment',\r\n  MESSAGE = 'message'\r\n}\r\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/security/passportJwtMiddleware.ts"],"names":[],"mappings":";;AAAA,iFAA0E;AAE1E,kBAAe,sCAA4B,CAAC,KAAK,CAAC,CAAC","file":"../../../src/security/passportJwtMiddleware.js","sourcesContent":["import passportJwtMiddlewareFactory from './passportJwtMiddlewareFactory';\r\n\r\nexport default passportJwtMiddlewareFactory('jwt');\r\n"]}
